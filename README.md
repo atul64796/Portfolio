@@ -1,3 +1,4 @@
 # Portfolio
 My Portfolio
-Author - Atul Kumar Chourasia
+<br>
+Author -  <i>Atul Kumar Chourasia</i>
